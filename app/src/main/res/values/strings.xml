@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string name="string_delete">Удалить</string>
+</resources>
